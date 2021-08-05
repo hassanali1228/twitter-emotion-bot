@@ -22,7 +22,7 @@ def check_mentions(api, keywords, since_id):
 
         if any(keyword in tweet.text.lower() for keyword in keywords):
             logger.info(f"Answering to {tweet.user.name}")
-            stimulus=(api.get_status(id=tweet_id)).text
+            stimulus=(api.get_status(id=tweet_id, tweet_mode="extended").full_text)
 
             response = f"I think they're just sad... 😢, when they said \"{stimulus}\""
 
