@@ -50,4 +50,4 @@ Download the project files and experiment with the jupyter notebook, to enhance 
    docker run -it twitter-emotion-bot
    ```
    
-4. Troubleshoot 🙂
+4. Troubleshoot 😉
