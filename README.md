@@ -13,7 +13,7 @@
     <br />
     <a href="https://twitter.com/wahwahbot">View Profile </a>
     |
-    <a href="https://github.com/hassanali1228/twitter-emotion-bot/issues"> Report Bugs</a>
+
   </p>
 </p>
 
