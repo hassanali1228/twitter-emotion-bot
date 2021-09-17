@@ -32,7 +32,7 @@ Download the project files and experiment with the jupyter notebook, to enhance 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hassanali1228/twitter-emotion-bot.git
+   git clone https://github.com/harshgandhi29/twitter-emotion-bot.git
    ```
 
 2. Apply twitter api keys, and store them in an environmental file (.env)
