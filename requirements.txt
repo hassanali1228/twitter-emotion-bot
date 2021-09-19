@@ -9,3 +9,7 @@ python-dotenv==0.19.0
 scikit_learn==0.24.2
 nltk==3.6.2
 seaborn==0.11.1
+tqdm
+bert-for-tf2
+sentencepiece
+tensorflow-gpu==2.5.0
